@@ -10,9 +10,14 @@ This exercise is design to help familiarize you with what log data is and can lo
 
 ## Educational Objectives
 
-- Run a javascript file with node.
+- Run a JavaScript file with `node`.
 - Use `fs` to parse files and understand more about file I/O.
 - Use the File System Module (`fs`) to interact with the filesystem.
+
+### Key terms:
+
+- file I/O
+- `fs`
 
 ## Educational Activities
 
@@ -128,3 +133,27 @@ You get log files that are in this format:
 That is...
 
     [log level char], [<date> #<processid>]  <log level> -- : <message>
+
+## Reflect: Self-asses
+
+Go to the "Objectives" section of this README. Go through each one and ask yourself:
+
+- Have I completed this objective?
+- What concrete evidence do I have that I've completed the objective?
+
+Go to the "Key Terms" section of this README. For each word, ask yourself:
+
+- What is my explanation for this term?
+
+If you haven't completed an objective, or you can't define a term, take a few minutes to try to fill in any gaps.
+
+## Reflect: Ask new questions
+
+What new questions do you have now that you've gone through this exercise?
+
+List at least 4 here:
+
+1. 
+1. 
+1. 
+1. 
